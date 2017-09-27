@@ -55,5 +55,6 @@ p {
 
 footer {
 	font-size: .67em;
-	margin: 10px 0px 10px 0px;
+	text-align: right;
+	color: #ccc;
 }
