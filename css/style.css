@@ -29,3 +29,7 @@ h1 a {
 h1 a:hover {
 	color:#606060;
 }
+
+#wrapper img {
+	border:10px;
+}
