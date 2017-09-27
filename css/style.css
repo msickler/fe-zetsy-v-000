@@ -30,7 +30,7 @@ h1 a:hover {
 	color:#606060;
 }
 
-img {
+#wrapper img {
 	border:5px solid rgb(152,173,166);
 }
 
@@ -45,10 +45,10 @@ p {
 	margin: 0 0 20px 0;
 }
 
-.links {
+#press img {
 	border: 5px solid #ccc
 }
 
-.links a:hover {
+#press img:hover {
 	border: 5px solid rgb(111,127,122);
 }
