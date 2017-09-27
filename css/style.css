@@ -52,3 +52,8 @@ p {
 #press img:hover {
 	border: 5px solid rgb(111,127,122);
 }
+
+footer {
+	font-size: .67em;
+	margin: 10px 0 10px 10px;
+}
